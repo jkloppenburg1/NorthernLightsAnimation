@@ -8,6 +8,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
+import static com.example.jkloppenburg1.northernlightsanimation.R.anim.flip_anim;
 import static com.example.jkloppenburg1.northernlightsanimation.R.anim.rotate;
 import static com.example.jkloppenburg1.northernlightsanimation.R.anim.shake_anim;
 
